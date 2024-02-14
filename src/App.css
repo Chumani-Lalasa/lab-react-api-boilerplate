@@ -1,0 +1,9 @@
+.image-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.authors{
+  display: flex;
+  gap: 20px;
+}
